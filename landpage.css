@@ -1,0 +1,61 @@
+body {
+    flex-direction: column;
+    display: flex;
+    margin: 0;
+    
+}
+
+.whole {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.header {
+background-color: yellow;
+display: flex;
+justify-content: space-between;
+gap: 8px;
+}
+
+ul {
+gap: 8px;
+margin: 0;
+padding: 0;
+display: flex;
+list-style: none ;
+}
+
+.top {
+background-color: yellow;
+
+
+}
+
+
+.middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.quote {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.call {
+
+
+}
+
+.footer {
+background-color: brown;
+padding: 10px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
